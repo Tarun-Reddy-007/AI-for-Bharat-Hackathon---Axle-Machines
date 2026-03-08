@@ -1,0 +1,6 @@
+path: D:\FINDEM2\yolov5\train_data
+train: pictures/train
+val: pictures/val
+
+nc: 1
+names: ["animal"]
